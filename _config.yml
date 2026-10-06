@@ -12,9 +12,9 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Junchi Yao"
 description              : ""
-url                     : "https://YokeYao.github.io"
+url                     : "https://YokyYao.github.io"
 baseurl                 : ""
-repository               : "YokeYao/YokeYao.github.io"
+repository               : "YokyYao/YokyYao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -43,7 +43,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YokeYao"
+  github           : "YokyYao"
   google_plus      :
   keybase          :
   instagram        : 
