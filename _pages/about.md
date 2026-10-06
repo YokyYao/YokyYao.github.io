@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I am a 1-year PhD student in Machine Learning at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent">Lijie Hu</a>. I was a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I had the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>. Before that, I gained valuable research experience as a research intern at <i class="fas fa-university"></i> **King Abdullah University of Science and Technology (KAUST)** under the guidance of Prof. <a href="https://shao3wangdi.github.io/" class="link-accent">Di Wang</a>. I received my Bachelor of Engineering in Information System and Information Management from the <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**.
+My name is <span class="accent-text">Junchi Yao</span> (You can also call me 'Yoky'). I am a 1-year PhD student in Machine Learning at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent">Lijie Hu</a>. I was a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I had the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>. Before that, I gained valuable research experience as a research intern at <i class="fas fa-university"></i> **King Abdullah University of Science and Technology (KAUST)** under the guidance of Prof. <a href="https://shao3wangdi.github.io/" class="link-accent">Di Wang</a>. I received my Bachelor of Engineering in Information System and Information Management from the <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**.
 
 <div class="quote-accent">
 My research focuses on <span class="primary-gradient-text">Large Language Models</span>, particularly in explainability (XAI), LLM agents, and LLM4Science, including social science and physics. Moreover, I have recently begun learning about World Model models. My goal is to advance robotics and LLM research toward interpretable, robust, and impactful real-world applications.
@@ -59,7 +59,8 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-fire"></i> News
-- *2026.08*: &nbsp;🎉 1 Paper is accepted by The Thirty-First Empirical Methods in Natural Language Processing (EMNLP 2026) Main Conference.
+- *2026.10*: &nbsp;🎉 1 Paper is accepted by The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026). <span class="accent-text">See you in Sydney, Austrilia!</span>
+- *2026.08*: &nbsp;🎉 1 Paper is accepted by The Thirty-First Empirical Methods in Natural Language Processing (EMNLP 2026) Main Conference **Oral**.
 - *2026.05*: &nbsp;🎉 1 Paper is accepted by The Forty-Third International Conference on Machine Learning (ICML 2026).
 - *2026.02*: &nbsp;🎉 1 Paper is accepted by The Thirty-Ninth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 - *2026.01*: &nbsp;🎉 1 Paper is accepted by The Fourteenth International Conference on Learning Representations (ICLR 2026).
@@ -75,16 +76,32 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">EMNLP 2026</div>
+    <div class="badge pulse-accent">NeurIPS 2026</div>
+    <img src="{{ '/images/NeurIPS2026.png' | relative_url }}" alt="Overview of SYAUDIO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO</h3>
+    <div class="authors"><strong><u>Junchi Yao</u></strong>, Lokranjan Lakshmikanthan, Annie Zhao, Danielle Zhao, Shu Yang, Zikang Ding, Di Wang, Lijie Hu</div>
+    <div class="venue">NeurIPS 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2601.23149" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/YokyYao/SYAUDIO" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">EMNLP 2026 Oral</div>
     <img src="{{ '/images/EMNLP2026.png' | relative_url }}" alt="Overview of Webshop" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Beyond State Consistency: Behavior Consistency in Text-Based World Models</h3>
     <div class="authors">Youling Huang, Guanqiao Chen, <strong><u>Junchi Yao</u></strong>, Lu Wang, Fangkai Yang, Chao Du, Chenzhuo Zhao, Pu Zhao, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</div>
-    <div class="venue">EMNLP 2026</div>
+    <div class="venue">EMNLP 2026 Oral</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2604.13824" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+      <a href="https://github.com/Ricardo-H/behr-wm" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
